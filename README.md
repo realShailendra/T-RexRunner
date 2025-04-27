@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="T-RexRunner Banner" />
+   <img src="assets/screenshot.gif" alt="T-RexRunner Gameplay Screenshot" width="600"/>
 </p>
 
 <h1 align="center">🦖 T-RexRunner</h1>
