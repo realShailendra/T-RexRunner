@@ -12,8 +12,6 @@
   <img src="https://img.shields.io/badge/Made%20with-HTML-orange?style=for-the-badge&logo=html5"/>
   <img src="https://img.shields.io/badge/Made%20with-JavaScript-yellow?style=for-the-badge&logo=javascript"/>
   <img src="https://img.shields.io/badge/Play%20Now-Click%20Here-brightgreen?style=for-the-badge&logo=google-chrome"/>
-  <img src="https://img.shields.io/badge/PRs-Welcome-blueviolet?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/License-MIT-blue?style=for-the-badge"/>
 </p>
 
 ---
@@ -29,7 +27,7 @@ Originally inspired by the [Chromium source](https://cs.chromium.org/chromium/sr
 
 # 🚀 Play It Now
 
-👉 [**Click Here to Play**](#) *(replace with your GitHub Pages link if hosting!)*
+👉 [**Click Here to Play**](#) 
 
 ---
 
@@ -72,6 +70,11 @@ git clone https://github.com/yourusername/T-RexRunner.git
 cd T-RexRunner
 
 # Open index.html in your browser
+```
+✅ No installation needed — Just open and play!
+
+📸 Screenshot
+<p align="center"> <img src="assets/screenshot.png" alt="T-RexRunner Screenshot" width="600"/> </p>
 
 
 
