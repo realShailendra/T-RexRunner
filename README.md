@@ -76,12 +76,26 @@ cd T-RexRunner
 # 📸 Screenshot
 
 <p align="center">
-  <img src="assets/default_200_percent/screenshot.gif" alt="T-RexRunner Gameplay Screenshot" width="600"/>
+  <img src="assets/screenshot.gif" alt="T-RexRunner Gameplay Screenshot" width="600"/>
 </p>
 
 <p align="center">
   Watch the Dino in action! 🦖✨
 </p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
